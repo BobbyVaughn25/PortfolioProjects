@@ -1,5 +1,5 @@
-# Covid Data Project
+# Portfoilo Projects
 
-The purpose of the particular project was to explore the data provided by the CDC to show the Death count vs the total Vaccinated count.
+The purpose of these projects is to showcase an extensive and in depth knowledge of programming languages and analytical skills
 
-Using SQL, I was able to further dive into the data provided and it has allowed me to see (by location, date, and population) our data laid out according to our own design.
+From SQL to Excel to Python to CSS, This repository will go through projeccts and showcase cleaning, building, analysis, and visuals for each one to better showcase those skills. Each file will have notation helping explain my process. 
